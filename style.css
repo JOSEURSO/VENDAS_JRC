@@ -817,6 +817,11 @@
     transform: translate3d(.85,.85,.85);
   }
 
+   .product-price{
+    font-size: 28px;
+   }
+  
+
 
    /* 
     PRODUCT SUMMARY
